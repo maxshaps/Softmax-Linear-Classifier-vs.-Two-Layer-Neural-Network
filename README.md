@@ -6,4 +6,4 @@ Performance comparison of a Softmax linear classification model and a two layer 
 
 ## Background
 
-Example largely inspired by the case study given in the Stanford CS231n Convolutional Neural Networks for Visual Recognition course notes: http://cs231n.github.io/
+Largely inspired by the case study given in the Stanford CS231n Convolutional Neural Networks for Visual Recognition course notes: http://cs231n.github.io/
